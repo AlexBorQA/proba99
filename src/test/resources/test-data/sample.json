@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "name": "Test Item",
+  "description": "Sample test data for unit tests",
+  "active": true,
+  "tags": ["test", "sample", "data"],
+  "metadata": {
+    "created": "2024-01-01T00:00:00Z",
+    "version": "1.0"
+  }
+}
